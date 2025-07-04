@@ -178,7 +178,7 @@
         border-width: 23.9rem;
 
     }
-}
+
 .about {
     flex-direction: column-reverse;
     text-align: center;
@@ -197,7 +197,7 @@
 
 
 }
-
+}
 
 @media (max-width: 617px) {
     .portfolio .portfolio-container {
