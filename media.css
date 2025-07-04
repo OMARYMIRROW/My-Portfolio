@@ -198,7 +198,7 @@
 
 }
 
-}
+
 @media (max-width: 617px) {
     .portfolio .portfolio-container {
         grid-template-columns: 1fr;
