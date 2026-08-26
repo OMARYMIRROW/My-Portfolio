@@ -222,10 +222,12 @@
     border-left: 384px solid transparent;
 }
 .home-img img{
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 100%;
+    position: relative;
+    bottom: auto;
+    right: auto;
+    width: 80%;
+    height: auto;
+    max-width: 400px;
     pointer-events: none ;
 }
 span{
