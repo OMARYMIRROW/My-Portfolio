@@ -223,8 +223,9 @@
 }
 .home-img img{
     position: absolute;
+    bottom: 0;
     top: 50%;
-    right: 8%;
+    right: 0%;
     transform: translateY(-50%)
     width: 32%;
     z-index: 10;
